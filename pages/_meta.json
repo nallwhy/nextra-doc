@@ -1,5 +1,11 @@
 {
-  "index": "Introduction",
+  "index": {
+    "title": "Introduction",
+    "theme": {
+      "layout": "default",
+      "typesetting": "article"
+    }
+  },
   "another": "Another Page",
   "separator": {
     "type": "separator"
