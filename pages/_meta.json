@@ -2,6 +2,11 @@
   "index": "Introduction",
   "another": "Another Page",
   "advanced": "Advanced (A Folder)",
+  "advanced2": {
+    "title": "Advanced2",
+    "href": "/advanced",
+    "display": "hidden"
+  },
   "folder_wo_doc": {
     "title": "Folder without Doc"
   },
