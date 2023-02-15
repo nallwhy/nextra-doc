@@ -1,7 +1,14 @@
 {
   "index": "Introduction",
   "another": "Another Page",
+  "separator": {
+    "type": "separator"
+  },
   "advanced": "Advanced (A Folder)",
+  "wow": {
+    "title": "WOW",
+    "type": "separator"
+  },
   "advanced2": {
     "title": "Advanced2",
     "href": "/advanced",
