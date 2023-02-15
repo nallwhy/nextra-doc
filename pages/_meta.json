@@ -5,6 +5,11 @@
   "folder_wo_doc": {
     "title": "Folder without Doc"
   },
+  "github_link": {
+    "title": "Nextra GitHub ↗",
+    "href": "https://github.com/shuding/nextra",
+    "newWindow": true
+  },
   "about": {
     "title": "About",
     "type": "page"
