@@ -22,6 +22,17 @@
     "href": "https://github.com/shuding/nextra",
     "newWindow": true
   },
+  "company": {
+    "title": "Business Canvas",
+    "type": "menu",
+    "items": {
+      "homepage": {
+        "title": "Homepage",
+        "href": "https://typed.do",
+        "newWindow": true
+      }
+    }
+  },
   "about": {
     "title": "About",
     "type": "page"
