@@ -2,6 +2,9 @@
   "index": "Introduction",
   "another": "Another Page",
   "advanced": "Advanced (A Folder)",
+  "folder_wo_doc": {
+    "title": "Folder without Doc"
+  },
   "about": {
     "title": "About",
     "type": "page"
