@@ -1,0 +1,52 @@
+{
+  "index": {
+    "title": "환영합니다",
+    "theme": {
+      "layout": "default",
+      "typesetting": "article"
+    }
+  },
+  "another": "다른 페이지",
+  "separator": {
+    "type": "separator"
+  },
+  "advanced": "고급 (폴더)",
+  "wow": {
+    "title": "와우",
+    "type": "separator"
+  },
+  "advanced2": {
+    "title": "고급2",
+    "href": "/advanced",
+    "display": "hidden"
+  },
+  "folder_wo_doc": {
+    "title": "문서 없는 폴더"
+  },
+  "github_link": {
+    "title": "Nextra GitHub ↗",
+    "href": "https://github.com/shuding/nextra",
+    "newWindow": true
+  },
+  "company": {
+    "title": "Business Canvas",
+    "type": "menu",
+    "items": {
+      "homepage": {
+        "title": "Homepage",
+        "href": "https://typed.do",
+        "newWindow": true
+      }
+    }
+  },
+  "about": {
+    "title": "대하여",
+    "type": "page"
+  },
+  "contact": {
+    "title": "문의 ↗",
+    "type": "page",
+    "href": "https://twitter.com/shuding_",
+    "newWindow": true
+  }
+}
