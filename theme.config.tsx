@@ -34,6 +34,12 @@ const config: DocsThemeConfig = {
   //     <meta property="og:description" content={description} />
   //   </>
   // },
+  banner: {
+    key: '2.0-release',
+    text: <a href="https://nextra.site" target="_blank">
+      🎉 Typed 2.0 is released. Read more →
+    </a>,
+  },
 }
 
 export default config
