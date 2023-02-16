@@ -40,6 +40,9 @@ const config: DocsThemeConfig = {
       🎉 Typed 2.0 is released. Read more →
     </a>,
   },
+  feedback: {
+    useLink: () => 'mailto:email@example.com'
+  },
 }
 
 export default config
